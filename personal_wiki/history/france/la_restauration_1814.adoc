@@ -1,6 +1,20 @@
 # La restauration (1814 -1830)
 
+[NOTE]
+====
+ Ultramontain : 
+
+
+ « Ultramontanisme » désigne les tendances romaines au sein de l'Église catholique qui affirment la primauté spirituelle et juridictionnelle du pape sur le pouvoir politique et donc la subordination de l'autorité civile à l'autorité ecclésiastique1.
+
+ C'est une orientation principalement française qui s'oppose alors au gallicanisme qui, lui, prône le développement d'une Église nationale. Au xixe siècle, l'ultramontanisme s'oppose aux idées issues des bouleversements politiques et technologiques de la Révolution française et industrielle. Dans ces temps d'émergence des mouvements nationaux, des réactions ultramontaines apparaissent également en Allemagne, en Belgique, en Suisse et au Canada.
+
+
+====
+
 ## Le retour des Bourbons
+
+image::images/535px-Le_roi_Louis_XVIII_dans_son_cabinet_de_travail_des_Tuileries_(bgw17_0044).jpg[]
 
 - La coalition défile et s'installe a Paris 31 mars 1814
 - Le sénat dechoit Napoléon qui tente de se suicider avant d'abdiquer pour son fils puis sans conditions
@@ -54,6 +68,51 @@ image::images/image-2022-04-20-19-52-25-125.png[Occupation de la France par les 
 
 ## L'assasinat du Duc de Berry
 
+ - Le Duc de berry seul homme pouvant onné un héritier q lq lignée des Bourbons est assassiné par un ouvrier bonapartiste le 13 février 1820 à la sortie de l'Opéra
+ - Les ultras utilisent l'occasion pour faire voter un vote double pour les grands propriétaires terriens
+ - Les éléctions partielles de 1820 et 1821 redonnent la majorité aux ultras
+ - En 1824 lors des éléctions générales les ultra obtiennet 410 sièges sur 430
+ - Le roi Louis XVIII meurt le 16 septembre 1824 de la gangrene
+
+## Charles X roi de l'aristocratie
+ 
+image::images/475px-Charles_X_King_of_France_-_Lawrence_1825.jpg[]
+
+ - Dernier petit fils de Louis XV et comte d'Artois
+ - Devennu très devot à la mort de son grand amour Louise de Polastron en 1804
+ - Plus enclein à l'absolutisme que Louis XVIII son frère, en défaut de  tempérance et d'intélligence
+ - Il s'allie au clergé et aux ultras pour gouverner
+ - Se fait sacré à Reims contrairement à son prédecesseur et renoue avec les anciennes traditions
+ - L'aspect mystique de la cérémonie ne prenait plus avec le peuple, un bonapartise (Béranger) composat "Le sacre de Charles le Simple" pour l'occasion 
+ - Diverses loi choquèrent l'opposition :
+    ** Indemnisation des nobles pour les biens confisqués à la Revolution
+    ** Punission des sacrilèges
+    ** Projets de loi pour rétablir le droit d'ainesse
+ - Une association secrète la "Charbonnerie" comprenant : La Fayette, Buchezn Bazard fomente un complot pour renverser la monarchie en 1822.
+ - Une branche plus extremiste des ultras se forma derrière : La Bourdonnaye et Chateaubriand, ils défendaient la liberté de la presse et l'alliance de le monarchie avec le peuple
+ - En 1827 a la revue de la Garde nationale celle-ci manifesta en criant "Vive la Charte, à bas les minitres, à bas Villèle!" et fut dissoute
+
+## Les "Trois Glorieuses" (27, 28, 29 Juillet 1830)
+
+ - Villèle renvois la Chambre en espérant ramener le calme
+ - Les modéré remporte la nouvelle election ce qui force Charles X à nommer le vicomte de Martignac
+ - Charles X nomme un nouveau ministe en aout 1829, le prince Jules de Polignac incarnant l'ultracisme 
+ - La Chambre répliqua avec une adresse au souverain lui demandant de respecter les voeux du peuple
+ - Charles X refusa de renvoyer son gouvernement et renvoya la Chambre le 16 mai 1830
+ - Les libéraux remportèrent de nouveau les éléctions avec 274 députés sur 430
+ - Charles X utilisa l'article 14 de la Charte pour signé des décrets suspendant la liberté de la presse et dissolvant l'assemblée tout en modifiant la loi électorale le 25 juillet 1830
+ - Ce coup d'état légal enflamma le peuple de Paris soutenus par les journaux et Adolphe Thiers érigèrent des barricades. Les émeutiers  s'emparèrent du Louvre et des Tuileries le 28 juillet
+ - Le 30 jullet Charles X tenta de retirer ses ordonnances mais il était trop tard.
+ - Dans la nuit Lafitte, Cassimir Perier et Thiers font afficher un appel au duc d'Orléans pour remplacer Charles X
+ - Le 7 aout la Chambre et les pairs déclare le trône vacant et firent appel à Louis-Philippe.
+ - Charles X et son fils abdiquèrent au profit du petit du de Bordeauxet partir pour l'exil
+ 
+NOTE:  Chateaubriand écrivait : "Le temps des rois est passé [...] La monarchie n'est plus une religion."
+
+## Bilan
+
+
+
 
 
 
@@ -62,10 +121,11 @@ image::images/image-2022-04-20-19-52-25-125.png[Occupation de la France par les 
 A préciser:
 
 - Jacobinisme
-- Ultramontain
+-
 - Quels sont les points de désaccord entre Louis XVIII et les ultra ?
 
 A lire :
 
 - "De la Monarchie selon la Charte" Chateaubriand
+- "Le sacre de Charles le Simple" Béranger
 ====
